@@ -6,7 +6,7 @@
 
 - **Objetivo**
 
- ****Mediante la preparación y limpieza de la base de datos proporcionar recomendaciones estratégicas con técnicas de segmentación como el RFM y la validación de Hipótesis para que la discográfica y el nuevo artista puedan tomar decisiones informadas que aumenten sus posibilidades de conseguir el “éxito”.
+ Mediante la preparación y limpieza de la base de datos proporcionar recomendaciones estratégicas con técnicas de segmentación como el RFM y la validación de Hipótesis para que la discográfica y el nuevo artista puedan tomar decisiones informadas que aumenten sus posibilidades de conseguir el “éxito”.
 
 - **Equipo**
 
@@ -446,7 +446,8 @@ Correlación negativa:
 
 - -0.0023050669108 significa que no existe una relación entre ambas variables de los beats o pulsaciones por minutos y la cantidad reproducción en una canción en playlist.
 
-![Captura de pantalla (646).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62e6b8fb-6a7b-4309-857f-3641f2b6fe9a/dc03d4fa-a8ed-4f86-9275-4391a3cf6492/Captura_de_pantalla_(646).png)
+![Captura de pantalla (646)](https://github.com/user-attachments/assets/cc26685f-02a1-449b-99af-1a1fa3b99699)
+
 
 **Hipótesis 2**
 
@@ -456,7 +457,8 @@ Correlación positiva:
 
 0.59969059415107162 lo que significa que ambas variables de in_spotify_charts e in_deezer_charts tienen popularidad de una canción entre el público en estas plataformas digitales.
 
-![Captura de pantalla (648).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62e6b8fb-6a7b-4309-857f-3641f2b6fe9a/949607aa-f990-4ad4-90d2-5330b4a88d40/Captura_de_pantalla_(648).png)
+![Captura de pantalla (648)](https://github.com/user-attachments/assets/b0b15ce0-e029-44e1-89b3-91def3ad953d)
+
 
 **Hipótesis 3**
 
@@ -466,7 +468,8 @@ Correlación positiva: 0.790330199938372
 
 lo que indica que indica que si la canción está en un mayor número de playlists más aumenta los streams como es el caso de la plataforma spotify.
 
-![Captura de pantalla (651).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62e6b8fb-6a7b-4309-857f-3641f2b6fe9a/3eb07d64-84e4-4dc0-801e-73dbb724ec2c/Captura_de_pantalla_(651).png)
+![Captura de pantalla (651)](https://github.com/user-attachments/assets/81bfee7f-a89e-4951-8e19-052db803f3cd)
+
 
 **Hipótesis 4**
 
@@ -476,9 +479,10 @@ Correlación negativa: -0.1368564661718
 
 En este caso no siempre los artista con mayor número de canciones tienen mas streams, en la esta grafica podemos ver que Ed Sheeran con solo 9 canciones tiene casi la misma cantidad de streams que Taylor Swift con 34 canciones.
 
-![Captura de pantalla (653).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62e6b8fb-6a7b-4309-857f-3641f2b6fe9a/c8d96ce1-6fce-4073-85d9-c5b14d3574ed/Captura_de_pantalla_(653).png)
+![Captura de pantalla (653)](https://github.com/user-attachments/assets/a0c28843-af65-46dd-8453-11235a37b17d)
 
-![Captura de pantalla (654).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62e6b8fb-6a7b-4309-857f-3641f2b6fe9a/d1538bef-c32b-428f-9aac-fb2dbcdbb3e5/Captura_de_pantalla_(654).png)
+![Captura de pantalla (654)](https://github.com/user-attachments/assets/15017f37-a274-48b8-820a-be12a62b04ae)
+
 
 **Hipótesis 5**
 
@@ -488,9 +492,10 @@ Correlaciones negativas:
 
  Estas variables no tienen relaciones entre sí, por lo que no influyen en el éxito de una canción por la cantidad de streams que tenga.
 
-![Captura de pantalla (656).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62e6b8fb-6a7b-4309-857f-3641f2b6fe9a/3f804610-13ac-4fc5-96e0-10538e5f3c91/Captura_de_pantalla_(656).png)
+![Captura de pantalla (656)](https://github.com/user-attachments/assets/d3dae7f2-d1e9-439c-9cc5-5d8834d2fcaa)
 
-![Captura de pantalla (655).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62e6b8fb-6a7b-4309-857f-3641f2b6fe9a/596d4722-f385-4c0e-8bc1-e2f5a1aa8319/Captura_de_pantalla_(655).png)
+![Captura de pantalla (655)](https://github.com/user-attachments/assets/5b2993a8-95b3-4800-824f-125b671b4061)
+
 
 - **Recomendaciones**
 
