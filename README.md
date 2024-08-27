@@ -499,7 +499,7 @@ Correlaciones negativas:
 
 - **Recomendaciones**
 
-Presencia en más playlists de terceros pude ayudar a llegar a más público. 
+Presencia en más playlists de terceros puede ayudar a llegar a más público. 
 
 Participar en eventos musicales en vivo, llama mucho el interés de las personas.
 
